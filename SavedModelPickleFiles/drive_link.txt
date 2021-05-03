@@ -1,1 +1,12 @@
 Final model after applying voting classfier on complete dataset: https://drive.google.com/file/d/1j7fC11QnRZMxoolAsduqsxcM45ontP0G/view?usp=sharing
+
+extra Tree classifier model:           https://drive.google.com/file/d/1-FznEXDudq9Q6gY8nfPzHJOVCJw-2MVb/view?usp=sharing
+Gradient boost classifier:             https://drive.google.com/file/d/1-QttH4FAfjAZFnPcd_9N_eY6SqAM9gBK/view?usp=sharing
+Gaussian Naive Bayes Classifier:       https://drive.google.com/file/d/1-CjHU6Gxa6uq2HqFIp__X8VgBnFjGe_X/view?usp=sharing
+KNN classifier:                        https://drive.google.com/file/d/1-C3aeFxUuak6PEdGYiQi7g1delFq-o14/view?usp=sharing
+Logistic classifier:                   https://drive.google.com/file/d/1-6sq1Qsatycndr82X9MmyzSa5RuzsNCJ/view?usp=sharing
+Multinomial Naive bayes classifier:    https://drive.google.com/file/d/1-2wv0q8ZgPthQGXgNp6K-FEBWx7ehy7_/view?usp=sharing
+MLP classifier:                        https://drive.google.com/file/d/1-IGYx2dib31RNu0aqYzHp1npeZhAtDGV/view?usp=sharing
+XGB classifier:                        https://drive.google.com/file/d/1-I_TjHOqchZ0at3KumyHCqLFBLGJ3bom/view?usp=sharing
+Random forest classifier:              https://drive.google.com/file/d/1-FVrkVIKUTImRG1EAJ-VRSeaEQdcf4Si/view?usp=sharing
+SVM classifier:                        https://drive.google.com/file/d/1-D9_uCDKwIztMVSs4QGhJzQh5tc4IBBi/view?usp=sharing
